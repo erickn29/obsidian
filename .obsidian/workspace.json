@@ -6,29 +6,114 @@
       {
         "id": "83c923779f8ef27d",
         "type": "tabs",
-        "dimension": 65.1015228426396,
+        "dimension": 56.47208121827412,
         "children": [
           {
-            "id": "c48cf3f32e33e816",
+            "id": "ec03960bd68af58f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Python/Наследование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5737b9cbac5cc205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Множественное наследование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03aea8c08a69760a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Доступ к атрибутам.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39464c302c53ab9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Доступ к атрибутам.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1893c31f1dfc1257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Полиморфизм и утиная типизация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3b3f8f40029fb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/dataclass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6947dcb773ec7ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Доступ к атрибутам.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ee10b27deba2113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Агрегирование и композиция.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
-        "id": "64d7f04dae5337b9",
+        "id": "17109aee0e3710eb",
         "type": "tabs",
-        "dimension": 34.89847715736041,
+        "dimension": 43.52791878172589,
         "children": [
           {
-            "id": "c2ebc5902b2fd2b6",
+            "id": "09e3c8153139a122",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -64,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +202,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +223,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,8 +243,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b175d8b4c995a1",
+  "active": "09e3c8153139a122",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Python/Множественное наследование.md",
+    "Python/dataclass.md",
+    "Python/Агрегирование и композиция.md",
+    "Python/Доступ к атрибутам.md",
+    "Python/Интерпретатор.md",
+    "Python/Наследование.md",
+    "Python/Магические методы.md",
+    "Python/Полиморфизм и утиная типизация.md",
+    "Python/Python.md",
+    "Python/Типы методоа.md",
+    "().md",
+    "create a link.md",
+    "Welcome.md",
+    "SQL",
+    "FastAPI",
+    "Django",
+    "Python"
   ]
 }
