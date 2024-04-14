@@ -6,7 +6,7 @@
       {
         "id": "83c923779f8ef27d",
         "type": "tabs",
-        "dimension": 56.47208121827412,
+        "dimension": 48.09644670050762,
         "children": [
           {
             "id": "ec03960bd68af58f",
@@ -110,14 +110,18 @@
       {
         "id": "17109aee0e3710eb",
         "type": "tabs",
-        "dimension": 43.52791878172589,
+        "dimension": 51.90355329949239,
         "children": [
           {
             "id": "09e3c8153139a122",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/Полиморфизм и утиная типизация.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -186,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Полиморфизм и утиная типизация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Полиморфизм и утиная типизация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +229,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Полиморфизм и утиная типизация.md"
+              }
             }
           }
         ]
@@ -245,6 +253,7 @@
   },
   "active": "09e3c8153139a122",
   "lastOpenFiles": [
+    "Python/Типы методов.md",
     "Python/Множественное наследование.md",
     "Python/dataclass.md",
     "Python/Агрегирование и композиция.md",
@@ -254,7 +263,6 @@
     "Python/Магические методы.md",
     "Python/Полиморфизм и утиная типизация.md",
     "Python/Python.md",
-    "Python/Типы методоа.md",
     "().md",
     "create a link.md",
     "Welcome.md",
