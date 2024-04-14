@@ -116,9 +116,17 @@
             "id": "09e3c8153139a122",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1132ec602cb5c891",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Полиморфизм и утиная типизация.md",
+                "file": "Python/строки.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +198,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Полиморфизм и утиная типизация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +214,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Полиморфизм и утиная типизация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,9 +235,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Полиморфизм и утиная типизация.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -253,15 +257,20 @@
   },
   "active": "09e3c8153139a122",
   "lastOpenFiles": [
+    "Python/mixin.md",
+    "Python/строки.md",
+    "Python/Агрегирование и композиция.md",
+    "Python/списки.md",
+    "Python/кортежи.md",
+    "Python/словари.md",
     "Python/Типы методов.md",
+    "Python/Полиморфизм и утиная типизация.md",
     "Python/Множественное наследование.md",
     "Python/dataclass.md",
-    "Python/Агрегирование и композиция.md",
     "Python/Доступ к атрибутам.md",
     "Python/Интерпретатор.md",
     "Python/Наследование.md",
     "Python/Магические методы.md",
-    "Python/Полиморфизм и утиная типизация.md",
     "Python/Python.md",
     "().md",
     "create a link.md",
