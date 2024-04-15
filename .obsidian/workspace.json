@@ -33,6 +33,42 @@
             }
           },
           {
+            "id": "5b436ff66bafafe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/SSH подключение к GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8051354523a10ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Репозиторий по SSH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da639173b8fb4fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Репозиторий по SSH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9ee10b27deba2113",
             "type": "leaf",
             "state": {
@@ -45,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "17109aee0e3710eb",
@@ -138,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Интерпретатор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Интерпретатор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +211,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Интерпретатор.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -200,20 +232,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5737b9cbac5cc205",
+  "active": "09e3c8153139a122",
   "lastOpenFiles": [
+    "Git/Репозиторий по SSH.md",
+    "Git/SSH подключение к GitHub.md",
+    "Python/Агрегирование и композиция.md",
+    "Git/Git.md",
+    "Git",
+    "Python/Интерпретатор.md",
     "Python/Доступ к атрибутам.md",
     "Python/Множественное наследование.md",
     "Python/строки.md",
     "Python/mixin.md",
-    "Python/Агрегирование и композиция.md",
     "Python/списки.md",
     "Python/кортежи.md",
     "Python/словари.md",
     "Python/Типы методов.md",
     "Python/Полиморфизм и утиная типизация.md",
     "Python/dataclass.md",
-    "Python/Интерпретатор.md",
     "Python/Наследование.md",
     "Python/Магические методы.md",
     "Python/Python.md",
