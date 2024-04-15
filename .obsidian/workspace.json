@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Доступ к атрибутам.md",
+                "file": "Python/Интерпретатор.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Доступ к атрибутам.md",
+                "file": "Python/Интерпретатор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Доступ к атрибутам.md",
+                "file": "Python/Интерпретатор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Доступ к атрибутам.md"
+                "file": "Python/Интерпретатор.md"
               }
             }
           }
@@ -202,6 +202,7 @@
   },
   "active": "5737b9cbac5cc205",
   "lastOpenFiles": [
+    "Python/Доступ к атрибутам.md",
     "Python/Множественное наследование.md",
     "Python/строки.md",
     "Python/mixin.md",
@@ -212,7 +213,6 @@
     "Python/Типы методов.md",
     "Python/Полиморфизм и утиная типизация.md",
     "Python/dataclass.md",
-    "Python/Доступ к атрибутам.md",
     "Python/Интерпретатор.md",
     "Python/Наследование.md",
     "Python/Магические методы.md",
