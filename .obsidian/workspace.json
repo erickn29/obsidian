@@ -4,34 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "83c923779f8ef27d",
+        "id": "8eddca1302a4ab02",
         "type": "tabs",
-        "dimension": 24.238578680203045,
+        "dimension": 52.4746192893401,
         "children": [
           {
-            "id": "868e4111e96058f6",
+            "id": "02d88db3b42dbfcb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Architect/Чистая архитектура.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2932e09fee368a57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Паттерн репозиторий.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "6c924ad02f3a4a78",
+        "id": "d2744d9f030edeaa",
         "type": "tabs",
-        "dimension": 75.76142131979695,
+        "dimension": 47.525380710659896,
         "children": [
           {
-            "id": "af75e4bda1205cd3",
+            "id": "d0be4329310e4ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/django.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49d2a2d71415f3b7",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Паттерн репозиторий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Паттерн репозиторий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Паттерн репозиторий.md"
+              }
             }
           }
         ],
@@ -155,43 +189,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af75e4bda1205cd3",
+  "active": "2932e09fee368a57",
   "lastOpenFiles": [
+    "Architect/Чистая архитектура.md",
+    "Паттерн репозиторий.md",
     "Django/django.md",
+    "Python/pydantic.md",
+    "Architect/DTO.md",
+    "FastAPI/fastapi.md",
+    "Architect/API.md",
+    "SQL/транзакции.md",
+    "Python/monkey-patching.md",
+    "Python/тестировать.md",
+    "architect.md",
+    "Architect/architect.md",
+    "Architect/интерфейс.md",
+    "SQL/sql.md",
+    "Architect/ООП.md",
+    "Architect/Порты и адаптеры.md",
+    "Architect/Луковичная архитектура.md",
+    "Architect/Гексагональная архитектура.md",
+    "**SOLID**.md",
+    "Architect/SOLID.md",
+    "чистая архитектура.md",
+    "Vue/vue.md",
+    "Architect",
     "Git/Репозиторий по SSH.md",
     "Django/Группировка данных ORM.md",
     "Python/интерпретатор.md",
     "SQL/PostgreSQL.md",
-    "SQL/sql.md",
-    "JavaScript/js.md",
-    "Git/git.md",
-    "FastAPI/fastapi.md",
-    "Python/фреймворк.md",
-    "linux/linux.md",
-    "Python/python.md",
-    "интерпретируемый.md",
-    "интрепретатор.md",
-    "Django/Получить название и значение поля в шаблоне.md",
-    "Python/Агрегирование и композиция.md",
-    "Algorithms/хеш-таблицы.md",
     "Algorithms",
     "GeekHunter",
-    "Python/Доступ к атрибутам.md",
-    "Python/decorator.md",
-    "Python/class.md",
     "Vue",
     "JavaScript",
     "Docker",
-    "cheatsheets/cheatsheet.md",
-    "Vue/vue.md",
-    "Django/drf.md",
-    "Docker/docker.md",
-    "Python/ascii.md",
-    "Python/unicode.md",
     "linux",
     "cheatsheets",
     "Git",
-    "SQL",
-    "FastAPI"
+    "SQL"
   ]
 }
