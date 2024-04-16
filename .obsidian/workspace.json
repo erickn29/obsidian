@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерн репозиторий.md",
+                "file": "Architect/интерфейс.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерн репозиторий.md",
+                "file": "Architect/интерфейс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Паттерн репозиторий.md",
+                "file": "Architect/интерфейс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Паттерн репозиторий.md"
+                "file": "Architect/интерфейс.md"
               }
             }
           }
@@ -191,8 +191,8 @@
   },
   "active": "2932e09fee368a57",
   "lastOpenFiles": [
+    "Architect/репозиторий.md",
     "Architect/Чистая архитектура.md",
-    "Паттерн репозиторий.md",
     "Django/django.md",
     "Python/pydantic.md",
     "Architect/DTO.md",
