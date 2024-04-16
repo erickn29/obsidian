@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architect/интерфейс.md",
+                "file": "Architect/репозиторий.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,23 +41,27 @@
         "dimension": 47.525380710659896,
         "children": [
           {
-            "id": "d0be4329310e4ac5",
+            "id": "b531c2c32ddb0929",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/django.md",
+                "file": "Architect/Принцип инверсии зависимостей.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "49d2a2d71415f3b7",
+            "id": "c943f3b606aeed2d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Architect/Принцип единственной ответственности.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -127,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architect/интерфейс.md",
+                "file": "Architect/Принцип единственной ответственности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architect/интерфейс.md",
+                "file": "Architect/Принцип единственной ответственности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architect/интерфейс.md"
+                "file": "Architect/Принцип единственной ответственности.md"
               }
             }
           }
@@ -189,8 +193,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2932e09fee368a57",
+  "active": "a0b175d8b4c995a1",
   "lastOpenFiles": [
+    "Architect/Принцип инверсии зависимостей.md",
+    "Architect/SOLID.md",
+    "Architect/Принцип разделения интерфейсов.md",
+    "Architect/Принцип подстановки Лисков.md",
+    "Architect/Принцип открытости закрытости.md",
+    "Принцип открытости/закрытости.md",
+    "Принцип открытости",
+    "Architect/Принцип единственной ответственности.md",
+    "Architect/Луковичная архитектура.md",
+    "Architect/интерфейс.md",
     "Architect/репозиторий.md",
     "Architect/Чистая архитектура.md",
     "Django/django.md",
@@ -203,21 +217,12 @@
     "Python/тестировать.md",
     "architect.md",
     "Architect/architect.md",
-    "Architect/интерфейс.md",
     "SQL/sql.md",
     "Architect/ООП.md",
     "Architect/Порты и адаптеры.md",
-    "Architect/Луковичная архитектура.md",
     "Architect/Гексагональная архитектура.md",
     "**SOLID**.md",
-    "Architect/SOLID.md",
-    "чистая архитектура.md",
-    "Vue/vue.md",
     "Architect",
-    "Git/Репозиторий по SSH.md",
-    "Django/Группировка данных ORM.md",
-    "Python/интерпретатор.md",
-    "SQL/PostgreSQL.md",
     "Algorithms",
     "GeekHunter",
     "Vue",
@@ -225,7 +230,6 @@
     "Docker",
     "linux",
     "cheatsheets",
-    "Git",
-    "SQL"
+    "Git"
   ]
 }
