@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architect/репозиторий.md",
+                "file": "Architect/интерфейс.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architect/Принцип единственной ответственности.md",
+                "file": "Architect/интерфейс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architect/Принцип единственной ответственности.md",
+                "file": "Architect/интерфейс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architect/Принцип единственной ответственности.md"
+                "file": "Architect/интерфейс.md"
               }
             }
           }
@@ -193,8 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b175d8b4c995a1",
+  "active": "2932e09fee368a57",
   "lastOpenFiles": [
+    "Architect/репозиторий.md",
+    "Architect/Чистая архитектура.md",
     "Architect/Принцип инверсии зависимостей.md",
     "Architect/SOLID.md",
     "Architect/Принцип разделения интерфейсов.md",
@@ -205,8 +207,6 @@
     "Architect/Принцип единственной ответственности.md",
     "Architect/Луковичная архитектура.md",
     "Architect/интерфейс.md",
-    "Architect/репозиторий.md",
-    "Architect/Чистая архитектура.md",
     "Django/django.md",
     "Python/pydantic.md",
     "Architect/DTO.md",
