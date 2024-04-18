@@ -6,7 +6,7 @@
       {
         "id": "8eddca1302a4ab02",
         "type": "tabs",
-        "dimension": 52.4746192893401,
+        "dimension": 49.23857868020305,
         "children": [
           {
             "id": "02d88db3b42dbfcb",
@@ -31,41 +31,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea700bf792ef8ef6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d2744d9f030edeaa",
         "type": "tabs",
-        "dimension": 47.525380710659896,
+        "dimension": 50.76142131979695,
         "children": [
           {
-            "id": "b531c2c32ddb0929",
+            "id": "a6a3713621ad33fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architect/Принцип инверсии зависимостей.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c943f3b606aeed2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architect/Принцип единственной ответственности.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architect/интерфейс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architect/интерфейс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Architect/интерфейс.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -193,8 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2932e09fee368a57",
+  "active": "a0b175d8b4c995a1",
   "lastOpenFiles": [
+    "FastAPI/alembic async.md",
+    "Architect/интерфейс.md",
     "Architect/репозиторий.md",
     "Architect/Чистая архитектура.md",
     "Architect/Принцип инверсии зависимостей.md",
@@ -206,7 +195,6 @@
     "Принцип открытости",
     "Architect/Принцип единственной ответственности.md",
     "Architect/Луковичная архитектура.md",
-    "Architect/интерфейс.md",
     "Django/django.md",
     "Python/pydantic.md",
     "Architect/DTO.md",
@@ -221,7 +209,6 @@
     "Architect/ООП.md",
     "Architect/Порты и адаптеры.md",
     "Architect/Гексагональная архитектура.md",
-    "**SOLID**.md",
     "Architect",
     "Algorithms",
     "GeekHunter",
