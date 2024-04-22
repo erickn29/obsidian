@@ -6,7 +6,7 @@
       {
         "id": "8eddca1302a4ab02",
         "type": "tabs",
-        "dimension": 58.24873096446701,
+        "dimension": 51.01522842639594,
         "children": [
           {
             "id": "02d88db3b42dbfcb",
@@ -57,12 +57,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "a5818f579aaace9f",
         "type": "tabs",
-        "dimension": 41.75126903553299,
+        "dimension": 48.984771573604064,
         "children": [
           {
             "id": "ea700bf792ef8ef6",
@@ -71,8 +71,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "efae4e750a3948cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQLAlchemy/Создание таблиц, session, sessionmaker.md",
+                "file": "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQLAlchemy/Создание таблиц, session, sessionmaker.md",
+                "file": "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQLAlchemy/Создание таблиц, session, sessionmaker.md"
+                "file": "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md"
               }
             }
           }
@@ -200,9 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed70737be911fdc4",
+  "active": "efae4e750a3948cb",
   "lastOpenFiles": [
     "SQLAlchemy/Подключение к БД.md",
+    "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
     "SQLAlchemy/Создание таблиц, session, sessionmaker.md",
     "SQLAlchemy/SQLAlchemy.md",
     "Калининград/Балтийск.md",
@@ -230,7 +244,6 @@
     "Architect/Луковичная архитектура.md",
     "Django/django.md",
     "Python/pydantic.md",
-    "Architect/DTO.md",
     "Architect",
     "Algorithms",
     "GeekHunter",
