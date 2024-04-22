@@ -74,3 +74,13 @@ class Project(Base):
 	created_at: Mapped[created_at]
 	updated_at: Mapped[updated_at]
 ```
+
+Создать и удалить таблицы в БД
+```python
+def create_tables():
+	Base.metadata.create_all(engine)
+
+def drop_tables():
+	Base.metadata.drop_all(engine)
+```
+
