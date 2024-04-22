@@ -6,7 +6,7 @@
       {
         "id": "8eddca1302a4ab02",
         "type": "tabs",
-        "dimension": 49.23857868020305,
+        "dimension": 50.76142131979695,
         "children": [
           {
             "id": "02d88db3b42dbfcb",
@@ -31,32 +31,41 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a5818f579aaace9f",
+        "type": "tabs",
+        "dimension": 49.23857868020304,
+        "children": [
           {
             "id": "ea700bf792ef8ef6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQLAlchemy/SQLAlchemy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b0c14e5a349add7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Подключение к БД.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "d2744d9f030edeaa",
-        "type": "tabs",
-        "dimension": 50.76142131979695,
-        "children": [
-          {
-            "id": "a6a3713621ad33fd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Подключение к БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Подключение к БД.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Подключение к БД.md"
+              }
             }
           }
         ],
@@ -180,8 +193,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b175d8b4c995a1",
+  "active": "8b0c14e5a349add7",
   "lastOpenFiles": [
+    "SQLAlchemy/SQLAlchemy.md",
+    "Подключение к БД.md",
+    "Калининград/Балтийск.md",
+    "SQLAlchemy",
+    "Python/class.md",
+    "Калининград/Янтарный.md",
+    "Калининград/Калининград.md",
+    "Калининград/Советск.md",
+    "Калининград/Светлогорск.md",
+    "Калининград/Зеленоградск.md",
+    "Базовый класс репозитория.md",
+    "Калининград",
     "FastAPI/alembic async.md",
     "Architect/интерфейс.md",
     "Architect/репозиторий.md",
@@ -199,24 +224,12 @@
     "Python/pydantic.md",
     "Architect/DTO.md",
     "FastAPI/fastapi.md",
-    "Architect/API.md",
-    "SQL/транзакции.md",
-    "Python/monkey-patching.md",
-    "Python/тестировать.md",
-    "architect.md",
-    "Architect/architect.md",
-    "SQL/sql.md",
-    "Architect/ООП.md",
-    "Architect/Порты и адаптеры.md",
-    "Architect/Гексагональная архитектура.md",
     "Architect",
     "Algorithms",
     "GeekHunter",
     "Vue",
     "JavaScript",
     "Docker",
-    "linux",
-    "cheatsheets",
-    "Git"
+    "linux"
   ]
 }
