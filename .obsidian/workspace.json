@@ -31,9 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b0c14e5a349add7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLAlchemy/Подключение к БД.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a5818f579aaace9f",
@@ -44,28 +56,11 @@
             "id": "ea700bf792ef8ef6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQLAlchemy/SQLAlchemy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b0c14e5a349add7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Подключение к БД.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Подключение к БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Подключение к БД.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Подключение к БД.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -193,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b0c14e5a349add7",
+  "active": "ea700bf792ef8ef6",
   "lastOpenFiles": [
     "SQLAlchemy/SQLAlchemy.md",
-    "Подключение к БД.md",
+    "SQLAlchemy/Подключение к БД.md",
     "Калининград/Балтийск.md",
     "SQLAlchemy",
     "Python/class.md",
