@@ -9,18 +9,79 @@
         "dimension": 57.74111675126904,
         "children": [
           {
-            "id": "5fe6c6f7eff2512e",
+            "id": "a99ba8ef66b159cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Перемещения в пространстве.md",
+                "file": "linux/Каналы и конвейеры.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1dc9a044f9dfa15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/Права суперпользователя.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4cbfa07b9c22e47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/Осваиваем перемещение во времени.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a3dcf8ceab698dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/Псевдонимы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac9c301925fc30cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/Переменные окружения HOME, USER, PWD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5c139515fa76adc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/История команд.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "a5818f579aaace9f",
@@ -101,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Перемещения в пространстве.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Перемещения в пространстве.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Перемещения в пространстве.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,18 +220,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fe6c6f7eff2512e",
+  "active": "ea700bf792ef8ef6",
   "lastOpenFiles": [
-    "Каналы и конвейеры.md",
-    "Стандартный поток вывода.md",
-    "Стандартный поток ввода.md",
-    "Стандартный поток вывода ошибок.md",
-    "История команд.md",
+    "linux/История команд.md",
+    "linux/Переменная окружения PATH, команда type.md",
+    "linux/Переменные окружения HOME, USER, PWD.md",
+    "linux/Псевдонимы.md",
+    "linux/Осваиваем перемещение во времени.md",
+    "linux/Права суперпользователя.md",
+    "linux/Каналы и конвейеры.md",
     "Untitled",
+    "linux/Работаем только с нужными частями файла.md",
+    "linux/Создаём и удаляем.md",
+    "Python/словари.md",
+    "cheatsheets/cheatsheet.md",
+    "linux/Перемещения в пространстве.md",
+    "Python/списки.md",
+    "linux/Стандартный поток вывода.md",
+    "linux/Стандартный поток ввода.md",
+    "linux/Стандартный поток вывода ошибок.md",
     "Python/Базовый класс репозитория.md",
     "SQLAlchemy/Select с параметрами.md",
-    "Маски.md",
-    "Перемещения в пространстве.md",
+    "linux/Маски.md",
     "linux/ssh.md",
     "двоичный сумматор.md",
     "Computer Science",
@@ -183,17 +250,7 @@
     "Architect/SOLID.md",
     "Architect/Чистая архитектура.md",
     "Architect/репозиторий.md",
-    "Architect/Принцип подстановки Лисков.md",
-    "Architect/Принцип открытости закрытости.md",
-    "Принцип открытости/закрытости.md",
-    "SQLAlchemy/Создание таблиц, session, sessionmaker.md",
-    "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
-    "SQLAlchemy/Подключение к БД.md",
-    "SQLAlchemy/SQLAlchemy.md",
-    "Калининград/Балтийск.md",
     "SQLAlchemy",
-    "Python/class.md",
-    "Калининград/Янтарный.md",
     "Калининград",
     "Принцип открытости",
     "Architect",
