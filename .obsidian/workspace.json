@@ -6,63 +6,26 @@
       {
         "id": "8eddca1302a4ab02",
         "type": "tabs",
-        "dimension": 51.01522842639594,
+        "dimension": 57.74111675126904,
         "children": [
           {
-            "id": "02d88db3b42dbfcb",
+            "id": "5fe6c6f7eff2512e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architect/Чистая архитектура.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2932e09fee368a57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architect/интерфейс.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b0c14e5a349add7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQLAlchemy/Подключение к БД.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed70737be911fdc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQLAlchemy/Создание таблиц, session, sessionmaker.md",
+                "file": "Перемещения в пространстве.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a5818f579aaace9f",
         "type": "tabs",
-        "dimension": 48.984771573604064,
+        "dimension": 42.25888324873096,
         "children": [
           {
             "id": "ea700bf792ef8ef6",
@@ -71,21 +34,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "efae4e750a3948cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
+                "file": "Перемещения в пространстве.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
+                "file": "Перемещения в пространстве.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md"
+                "file": "Перемещения в пространстве.md"
               }
             }
           }
@@ -213,43 +163,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efae4e750a3948cb",
+  "active": "5fe6c6f7eff2512e",
   "lastOpenFiles": [
-    "SQLAlchemy/Подключение к БД.md",
-    "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
+    "Каналы и конвейеры.md",
+    "Стандартный поток вывода.md",
+    "Стандартный поток ввода.md",
+    "Стандартный поток вывода ошибок.md",
+    "История команд.md",
+    "Untitled",
+    "Python/Базовый класс репозитория.md",
+    "SQLAlchemy/Select с параметрами.md",
+    "Маски.md",
+    "Перемещения в пространстве.md",
+    "linux/ssh.md",
+    "двоичный сумматор.md",
+    "Computer Science",
+    "Architect/API.md",
+    "Architect/DTO.md",
+    "Architect/SOLID.md",
+    "Architect/Чистая архитектура.md",
+    "Architect/репозиторий.md",
+    "Architect/Принцип подстановки Лисков.md",
+    "Architect/Принцип открытости закрытости.md",
+    "Принцип открытости/закрытости.md",
     "SQLAlchemy/Создание таблиц, session, sessionmaker.md",
+    "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
+    "SQLAlchemy/Подключение к БД.md",
     "SQLAlchemy/SQLAlchemy.md",
     "Калининград/Балтийск.md",
     "SQLAlchemy",
     "Python/class.md",
     "Калининград/Янтарный.md",
-    "Калининград/Калининград.md",
-    "Калининград/Советск.md",
-    "Калининград/Светлогорск.md",
-    "Калининград/Зеленоградск.md",
-    "Базовый класс репозитория.md",
     "Калининград",
-    "FastAPI/alembic async.md",
-    "Architect/интерфейс.md",
-    "Architect/репозиторий.md",
-    "Architect/Чистая архитектура.md",
-    "Architect/Принцип инверсии зависимостей.md",
-    "Architect/SOLID.md",
-    "Architect/Принцип разделения интерфейсов.md",
-    "Architect/Принцип подстановки Лисков.md",
-    "Architect/Принцип открытости закрытости.md",
-    "Принцип открытости/закрытости.md",
     "Принцип открытости",
-    "Architect/Принцип единственной ответственности.md",
-    "Architect/Луковичная архитектура.md",
-    "Django/django.md",
-    "Python/pydantic.md",
     "Architect",
     "Algorithms",
     "GeekHunter",
     "Vue",
-    "JavaScript",
-    "Docker",
-    "linux"
+    "JavaScript"
   ]
 }
