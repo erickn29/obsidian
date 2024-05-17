@@ -6,97 +6,86 @@
       {
         "id": "8eddca1302a4ab02",
         "type": "tabs",
-        "dimension": 57.74111675126904,
+        "dimension": 52.15736040609138,
         "children": [
-          {
-            "id": "a99ba8ef66b159cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Каналы и конвейеры.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1dc9a044f9dfa15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Права суперпользователя.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4cbfa07b9c22e47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Осваиваем перемещение во времени.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a3dcf8ceab698dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Псевдонимы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "ac9c301925fc30cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Переменные окружения HOME, USER, PWD.md",
+                "file": "SQLAlchemy/Select с параметрами.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f5c139515fa76adc",
+            "id": "6712aca51044ad1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/История команд.md",
+                "file": "Фильтры.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "a5818f579aaace9f",
         "type": "tabs",
-        "dimension": 42.25888324873096,
+        "dimension": 47.84263959390862,
         "children": [
           {
             "id": "ea700bf792ef8ef6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "linux/Переменная окружения PATH, команда type.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d34cfb267ca5176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42fe8d66918b329e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cookie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cb9b4f5851a7077",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,11 +209,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea700bf792ef8ef6",
+  "active": "4cb9b4f5851a7077",
   "lastOpenFiles": [
-    "linux/История команд.md",
+    "Фильтры.md",
+    "cookie.md",
+    "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
+    "SQLAlchemy/Select с параметрами.md",
     "linux/Переменная окружения PATH, команда type.md",
     "linux/Переменные окружения HOME, USER, PWD.md",
+    "linux/История команд.md",
+    "linux/linux.md",
     "linux/Псевдонимы.md",
     "linux/Осваиваем перемещение во времени.md",
     "linux/Права суперпользователя.md",
@@ -240,16 +234,11 @@
     "linux/Стандартный поток ввода.md",
     "linux/Стандартный поток вывода ошибок.md",
     "Python/Базовый класс репозитория.md",
-    "SQLAlchemy/Select с параметрами.md",
     "linux/Маски.md",
     "linux/ssh.md",
     "двоичный сумматор.md",
     "Computer Science",
     "Architect/API.md",
-    "Architect/DTO.md",
-    "Architect/SOLID.md",
-    "Architect/Чистая архитектура.md",
-    "Architect/репозиторий.md",
     "SQLAlchemy",
     "Калининград",
     "Принцип открытости",
