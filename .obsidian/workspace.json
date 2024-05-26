@@ -6,7 +6,7 @@
       {
         "id": "8eddca1302a4ab02",
         "type": "tabs",
-        "dimension": 47.14467005076142,
+        "dimension": 44.289340101522846,
         "children": [
           {
             "id": "ac9c301925fc30cd",
@@ -38,62 +38,14 @@
       {
         "id": "a5818f579aaace9f",
         "type": "tabs",
-        "dimension": 52.85532994923858,
+        "dimension": 55.710659898477154,
         "children": [
-          {
-            "id": "ea700bf792ef8ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Переменная окружения PATH, команда type.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42fe8d66918b329e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB/cookie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "409c5072da971538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architect/интерфейс.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "17041cb91649d66a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "c4c4abbdec22ac92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сокеты.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -109,7 +61,19 @@
             }
           },
           {
-            "id": "bfb4da1e273d23d1",
+            "id": "2619561a1faf602b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сопрограммы, корутины, coroutine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2c454059fdc7444",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -117,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,8 +205,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfb4da1e273d23d1",
+  "active": "f2c454059fdc7444",
   "lastOpenFiles": [
+    "Сопрограммы, корутины, coroutine.md",
     "Event loop и tasks.md",
     "Сокеты.md",
     "asyncio.md",
@@ -271,7 +236,6 @@
     "linux/Каналы и конвейеры.md",
     "linux/Работаем только с нужными частями файла.md",
     "linux/Создаём и удаляем.md",
-    "Python/словари.md",
     "Computer Science",
     "SQLAlchemy",
     "Калининград",
