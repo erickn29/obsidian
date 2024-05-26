@@ -6,7 +6,7 @@
       {
         "id": "8eddca1302a4ab02",
         "type": "tabs",
-        "dimension": 52.15736040609138,
+        "dimension": 47.14467005076142,
         "children": [
           {
             "id": "ac9c301925fc30cd",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фильтры.md",
+                "file": "SQLAlchemy/Фильтры.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "a5818f579aaace9f",
         "type": "tabs",
-        "dimension": 47.84263959390862,
+        "dimension": 52.85532994923858,
         "children": [
           {
             "id": "ea700bf792ef8ef6",
@@ -53,31 +53,63 @@
             }
           },
           {
-            "id": "7d34cfb267ca5176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "42fe8d66918b329e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cookie.md",
+                "file": "WEB/cookie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4cb9b4f5851a7077",
+            "id": "409c5072da971538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architect/интерфейс.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17041cb91649d66a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4c4abbdec22ac92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сокеты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "087d51525a4afe2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event loop и tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfb4da1e273d23d1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -85,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -209,13 +241,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cb9b4f5851a7077",
+  "active": "bfb4da1e273d23d1",
   "lastOpenFiles": [
-    "Фильтры.md",
-    "cookie.md",
-    "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
-    "SQLAlchemy/Select с параметрами.md",
+    "Event loop и tasks.md",
+    "Сокеты.md",
+    "asyncio.md",
+    "Конкурентность и параллелизм.md",
+    "asyncio начало.md",
+    "aiohttp.md",
+    "Architect/интерфейс.md",
+    "Architect/DTO.md",
+    "Architect/Луковичная архитектура.md",
+    "Asyncio",
     "linux/Переменная окружения PATH, команда type.md",
+    "SQLAlchemy/INSERT, SELECT, UPDATE запросы.md",
+    "WEB/cookie.md",
+    "SQLAlchemy/Фильтры.md",
+    "PyTest",
+    "WEB/HTTP.md",
+    "WEB/Аутентификация.md",
+    "WEB",
+    "SQLAlchemy/Select с параметрами.md",
     "linux/Переменные окружения HOME, USER, PWD.md",
     "linux/История команд.md",
     "linux/linux.md",
@@ -223,29 +269,15 @@
     "linux/Осваиваем перемещение во времени.md",
     "linux/Права суперпользователя.md",
     "linux/Каналы и конвейеры.md",
-    "Untitled",
     "linux/Работаем только с нужными частями файла.md",
     "linux/Создаём и удаляем.md",
     "Python/словари.md",
-    "cheatsheets/cheatsheet.md",
-    "linux/Перемещения в пространстве.md",
-    "Python/списки.md",
-    "linux/Стандартный поток вывода.md",
-    "linux/Стандартный поток ввода.md",
-    "linux/Стандартный поток вывода ошибок.md",
-    "Python/Базовый класс репозитория.md",
-    "linux/Маски.md",
-    "linux/ssh.md",
-    "двоичный сумматор.md",
     "Computer Science",
-    "Architect/API.md",
     "SQLAlchemy",
     "Калининград",
     "Принцип открытости",
     "Architect",
     "Algorithms",
-    "GeekHunter",
-    "Vue",
-    "JavaScript"
+    "GeekHunter"
   ]
 }
