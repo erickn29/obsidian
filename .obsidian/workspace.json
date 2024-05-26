@@ -41,6 +41,14 @@
         "dimension": 55.710659898477154,
         "children": [
           {
+            "id": "f2c454059fdc7444",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "17041cb91649d66a",
             "type": "leaf",
             "state": {
@@ -49,12 +57,60 @@
             }
           },
           {
+            "id": "38c611ea82364787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cancel, wait_for, shield.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "168a2abd3d4997dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Future.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4eff92f8ff2a884f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление циклом событий.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac7f49430c5cf57f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asyncio debug.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "087d51525a4afe2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event loop и tasks.md",
+                "file": "Asyncio/Event loop и tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,22 +122,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сопрограммы, корутины, coroutine.md",
+                "file": "Asyncio/Сопрограммы, корутины, coroutine.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f2c454059fdc7444",
+            "id": "9ad6452045ffde98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Asyncio/Сокеты.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,15 +265,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2c454059fdc7444",
+  "active": "17041cb91649d66a",
   "lastOpenFiles": [
-    "Сопрограммы, корутины, coroutine.md",
-    "Event loop и tasks.md",
-    "Сокеты.md",
-    "asyncio.md",
-    "Конкурентность и параллелизм.md",
+    "asyncio debug.md",
+    "Управление циклом событий.md",
+    "Future.md",
+    "cancel, wait_for, shield.md",
+    "Asyncio/Сокеты.md",
+    "Asyncio/Задачи, Tasks.md",
+    "Asyncio/Сопрограммы, корутины, coroutine.md",
+    "Asyncio/Event loop и tasks.md",
+    "Asyncio/asyncio.md",
+    "Asyncio/Конкурентность и параллелизм.md",
     "asyncio начало.md",
-    "aiohttp.md",
+    "Asyncio/aiohttp.md",
     "Architect/интерфейс.md",
     "Architect/DTO.md",
     "Architect/Луковичная архитектура.md",
@@ -231,11 +296,6 @@
     "linux/История команд.md",
     "linux/linux.md",
     "linux/Псевдонимы.md",
-    "linux/Осваиваем перемещение во времени.md",
-    "linux/Права суперпользователя.md",
-    "linux/Каналы и конвейеры.md",
-    "linux/Работаем только с нужными частями файла.md",
-    "linux/Создаём и удаляем.md",
     "Computer Science",
     "SQLAlchemy",
     "Калининград",
