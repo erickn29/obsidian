@@ -52,8 +52,12 @@
             "id": "17041cb91649d66a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Asyncio/Управление циклом событий.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -62,7 +66,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancel, wait_for, shield.md",
+                "file": "Asyncio/cancel, wait_for, shield.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future.md",
+                "file": "Asyncio/Future.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Управление циклом событий.md",
+                "file": "Asyncio/Управление циклом событий.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +102,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asyncio debug.md",
+                "file": "Asyncio/asyncio debug.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,8 +144,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,12 +268,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17041cb91649d66a",
+  "active": "f2c454059fdc7444",
   "lastOpenFiles": [
-    "asyncio debug.md",
-    "Управление циклом событий.md",
-    "Future.md",
-    "cancel, wait_for, shield.md",
+    "Asyncio/Управление циклом событий.md",
+    "Asyncio/asyncio debug.md",
+    "Asyncio/Future.md",
+    "Asyncio/cancel, wait_for, shield.md",
     "Asyncio/Сокеты.md",
     "Asyncio/Задачи, Tasks.md",
     "Asyncio/Сопрограммы, корутины, coroutine.md",
