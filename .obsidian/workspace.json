@@ -57,8 +57,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "7295af769f682740",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +191,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "149e038bc474ab25",
+  "active": "7295af769f682740",
   "lastOpenFiles": [
     "Python/Установка другого интерпретатора на Ubuntu.md",
     "Python/интерпретатор.md",

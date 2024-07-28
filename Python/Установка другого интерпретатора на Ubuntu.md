@@ -2,13 +2,13 @@
 
 Обновите списки пакетов:
 
-```
+```bash
 sudo apt update
 ```
 
 Установите зависимости:
 
-```
+```bash
 sudo apt install -y build-essential libssl-dev zlib1g-dev libncurses5-dev \ libncursesw5-dev libreadline-dev libsqlite3-dev libgdbm-dev libdb5.3-dev \ libbz2-dev libexpat1-dev liblzma-dev tk-dev libffi-dev
 ```
 
@@ -16,7 +16,7 @@ sudo apt install -y build-essential libssl-dev zlib1g-dev libncurses5-dev \ libn
 
 Перейдите на сайт python.orghttps://www.python.org/downloads/source/ и выберите нужную версию. Затем выполните команду, чтобы скачать и распаковать исходный код (замените 3.x.x на нужную версию):
 
-```
+```bash
 wget https://www.python.org/ftp/python/3.x.x/Python-3.x.x.tgz
 tar -xf Python-3.x.x.tgz
 cd Python-3.x.x
@@ -25,7 +25,7 @@ cd Python-3.x.x
 
 Соберите и установите Python:
 
-```
+```bash
 ./configure --enable-optimizations
 make -j $(nproc)
 sudo make altinstall
@@ -36,7 +36,7 @@ sudo make altinstall
 
 Проверьте установку:
 
-```
+```bash
 python3.x --version
 ```
 
