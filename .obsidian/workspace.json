@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQLAlchemy/Select с параметрами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQLAlchemy/Select с параметрами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQLAlchemy/Select с параметрами.md"
+              }
             }
           }
         ],
@@ -191,7 +194,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7295af769f682740",
+  "active": "149e038bc474ab25",
   "lastOpenFiles": [
     "Python/Установка другого интерпретатора на Ubuntu.md",
     "Python/интерпретатор.md",
