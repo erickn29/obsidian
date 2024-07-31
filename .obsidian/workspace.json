@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/интерпретатор.md",
+                "file": "SQL/PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe46f5b03ae9b56b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/pg_restore, восстановить БД.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Установка другого интерпретатора на Ubuntu.md",
+                "file": "SQL/sql.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,19 +66,24 @@
             "id": "149e038bc474ab25",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQL/База данных.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "7295af769f682740",
+            "id": "bdb50dff6e20e092",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQLAlchemy/Select с параметрами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQLAlchemy/Select с параметрами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +186,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQLAlchemy/Select с параметрами.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -194,10 +207,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "149e038bc474ab25",
+  "active": "bdb50dff6e20e092",
   "lastOpenFiles": [
-    "Python/Установка другого интерпретатора на Ubuntu.md",
+    "SQL/pg_restore, восстановить БД.md",
+    "SQL/PostgreSQL.md",
+    "SQL/транзакции.md",
+    "SQL/База данных.md",
+    "SQL/psql.md",
+    "linux/Права суперпользователя.md",
+    "linux/Создаём и удаляем.md",
+    "SQL/sql.md",
     "Python/интерпретатор.md",
+    "Python/Установка другого интерпретатора на Ubuntu.md",
     "linux/История команд.md",
     "WEB/HTTP.md",
     "Asyncio/Сокеты.md",
@@ -209,19 +230,11 @@
     "Asyncio/cancel, wait_for, shield.md",
     "WEB/cookie.md",
     "WEB/Аутентификация.md",
-    "linux/Права суперпользователя.md",
     "linux/ssh.md",
     "linux/linux.md",
     "linux/Псевдонимы.md",
     "SQLAlchemy/Фильтры.md",
     "Asyncio/Задачи, Tasks.md",
-    "Asyncio/asyncio.md",
-    "Asyncio/Конкурентность и параллелизм.md",
-    "asyncio начало.md",
-    "Asyncio/aiohttp.md",
-    "Architect/интерфейс.md",
-    "Architect/DTO.md",
-    "Architect/Луковичная архитектура.md",
     "Asyncio",
     "PyTest",
     "WEB",
