@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/pg_restore, восстановить БД.md",
+                "file": "SQL/psql.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,27 +63,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "149e038bc474ab25",
+            "id": "0cc86a6a69179de5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/База данных.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdb50dff6e20e092",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "удаление таблиц",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,16 +195,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bdb50dff6e20e092",
+  "active": "0cc86a6a69179de5",
   "lastOpenFiles": [
-    "SQL/pg_restore, восстановить БД.md",
+    "SQL/psql.md",
+    "SQLAlchemy/Создание таблиц, session, sessionmaker.md",
+    "DDL.md",
+    "SQL/sql.md",
     "SQL/PostgreSQL.md",
+    "SQL/pg_restore, восстановить БД.md",
     "SQL/транзакции.md",
     "SQL/База данных.md",
-    "SQL/psql.md",
     "linux/Права суперпользователя.md",
     "linux/Создаём и удаляем.md",
-    "SQL/sql.md",
     "Python/интерпретатор.md",
     "Python/Установка другого интерпретатора на Ubuntu.md",
     "linux/История команд.md",
@@ -233,8 +223,6 @@
     "linux/ssh.md",
     "linux/linux.md",
     "linux/Псевдонимы.md",
-    "SQLAlchemy/Фильтры.md",
-    "Asyncio/Задачи, Tasks.md",
     "Asyncio",
     "PyTest",
     "WEB",
