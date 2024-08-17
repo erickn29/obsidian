@@ -102,3 +102,27 @@ table author;
 select col1, col2 from table_name
 ```
 
+Выборка из результатов функций:
+```sql
+select num from generate_series(1, 10) num; -- от 1 до 10 включительно
+
+select d
+from generate_series(
+    '2023-01-01'::date,
+    '2023-01-10'::date,
+    '1 day'::interval
+) d; 
+
+select to_char(date, 'DD.MM.YYYY') date from generate_series('2020-01-01'::date, '2024-06-01'::date, '2 months'::interval) date;
+```
+
+Выборка из временных value
+```sql
+select movie, imdb_rating, year from (values  
+('The Shawshank Redemption', 9.3, 1994),  
+('The Godfather ', 9.2, 1972),  
+('The Dark Knight', 9.1, 2008),  
+('Inception', 8.8, 2010))  
+t(movie, imdb_rating, year);
+```
+

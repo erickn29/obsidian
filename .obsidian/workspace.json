@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/psql.md",
+                "file": "SQL/pg_restore, восстановить БД.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "удаление таблиц",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,12 +196,14 @@
   },
   "active": "0cc86a6a69179de5",
   "lastOpenFiles": [
+    "SQL/pg_restore, восстановить БД.md",
+    "linux/Маски.md",
+    "SQLAlchemy/Select с параметрами.md",
     "SQL/psql.md",
     "SQLAlchemy/Создание таблиц, session, sessionmaker.md",
     "DDL.md",
     "SQL/sql.md",
     "SQL/PostgreSQL.md",
-    "SQL/pg_restore, восстановить БД.md",
     "SQL/транзакции.md",
     "SQL/База данных.md",
     "linux/Права суперпользователя.md",
@@ -221,8 +222,6 @@
     "WEB/cookie.md",
     "WEB/Аутентификация.md",
     "linux/ssh.md",
-    "linux/linux.md",
-    "linux/Псевдонимы.md",
     "Asyncio",
     "PyTest",
     "WEB",
