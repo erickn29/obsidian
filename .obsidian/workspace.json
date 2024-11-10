@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Сортировка данных.md",
+                "file": "SQL/Ограничение количества результатов запроса.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сортировка данных"
+              "title": "Ограничение количества результатов запроса"
             }
           }
         ],
@@ -196,6 +196,7 @@
   },
   "active": "ee51046e95155e03",
   "lastOpenFiles": [
+    "SQL/Ограничение количества результатов запроса.md",
     "SQL/Сортировка данных.md",
     "SQL/Особое значение NULL, coalesce.md",
     "SQL/Фильтрация данных.md",
@@ -221,7 +222,6 @@
     "Run FLUX.1-schnell on Local Ubuntu.md",
     "WEB/cookie.md",
     "Untitled.md",
-    "SQLAlchemy/Фильтры.md",
     "Без названия.canvas",
     "Untitled.canvas",
     "Asyncio",
