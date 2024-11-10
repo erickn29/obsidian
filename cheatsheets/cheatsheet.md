@@ -6,7 +6,7 @@
 
 ## [[git]]
 ## [[docker]]
-## [[sql]]
+## [[SQL]]
 ## [[linux]]
 ## [[django]]
 ## [[drf]]
