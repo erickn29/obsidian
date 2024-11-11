@@ -46,10 +46,14 @@
             "id": "ee51046e95155e03",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Изменяем данные в БД.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Изменяем данные в БД"
             }
           }
         ]
@@ -196,6 +200,7 @@
   },
   "active": "ee51046e95155e03",
   "lastOpenFiles": [
+    "SQL/Изменяем данные в БД.md",
     "SQL/Ограничение количества результатов запроса.md",
     "SQL/Сортировка данных.md",
     "SQL/Особое значение NULL, coalesce.md",
@@ -221,7 +226,6 @@
     "SQL/PostgreSQL.md",
     "Run FLUX.1-schnell on Local Ubuntu.md",
     "WEB/cookie.md",
-    "Untitled.md",
     "Без названия.canvas",
     "Untitled.canvas",
     "Asyncio",
